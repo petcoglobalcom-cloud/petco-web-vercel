@@ -1,0 +1,10 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/bat-an-cho-cho-nang-cao/",
+      "permanent": true
+    }
+  ]
+}
